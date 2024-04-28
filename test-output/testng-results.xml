@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Stock-000001292     Stock-000001292]]>
+    </line>
+    <line>
+      <![CDATA[Supplier-00000002788     Supplier-00000002788]]>
+    </line>
+    <line>
+      <![CDATA[Customer-00000004957     Customer-00000004957]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-04-27T08:08:06 IST" name="Default suite" finished-at="2024-04-27T08:10:02 IST" duration-ms="115883">
+    <groups>
+    </groups>
+    <test started-at="2024-04-27T08:08:06 IST" name="Default test" finished-at="2024-04-27T08:10:02 IST" duration-ms="115883">
+      <class name="Driverfactory.Driverscript">
+        <test-method signature="starttest()[pri:0, instance:Driverfactory.Driverscript@117159c0]" started-at="2024-04-27T08:08:06 IST" name="starttest" finished-at="2024-04-27T08:10:02 IST" duration-ms="115662" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Stock-000001292     Stock-000001292]]>
+            </line>
+            <line>
+              <![CDATA[Supplier-00000002788     Supplier-00000002788]]>
+            </line>
+            <line>
+              <![CDATA[Customer-00000004957     Customer-00000004957]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- starttest -->
+      </class> <!-- Driverfactory.Driverscript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
